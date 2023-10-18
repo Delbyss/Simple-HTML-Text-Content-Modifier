@@ -1,0 +1,44 @@
+{
+    "optionLocal": {
+        "selectorCssInclu": "",
+        "selectorCssExclu": ""
+    },
+    "langSection": [
+        {
+            "name": "http://...pageAccueil",
+            "optionPrivate": {
+                "selectorCssInclu": "",
+                "selectorCssExclu": ""
+            },
+            "text": [
+                "elemtext1",
+                "elemtext2",
+                "elemtext3",
+                "elemtext4",
+                "elemtext5",
+                "elemtext6",
+                "elemtext7",
+                "elemtext1",
+                "elemtext2",
+                "elemtext3",
+                "elemtext4",
+                "elemtext5",
+                "elemtext6",
+                "elemtext7"
+
+
+            ]
+        },
+        {
+            "name": "nomdunElementAExecute",
+            "optionPrivate": {
+                "selectorCssInclu": "idtruc",
+                "selectorCssExclu": ""
+            },
+            "text": [
+                "elemtext1",
+                "elemtext2"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "optionGlobal": {
+        "selectorCssInclu": "body",
+        "selectorCssExclu": "script",
+        "selectorCssCaractèreAjout": [
+            {
+                "selectorCss": "a, span, b, em, i, cite, mark, code",
+                "Caractère": {
+                    "before": " ",
+                    "after": " "
+                }
+            }
+        ]
+    },
+    "langListInfo": [
+        {
+            "tag": "fr",
+            "titre": "Français",
+            "description": "",
+            "file": "frLang.json"
+        },
+        {
+            "tag": "pt",
+            "titre": "Portugais",
+            "description": "",
+            "file": "ptLang.json"
+        },
+        {
+            "tag": "en",
+            "titre": "Anglais",
+            "description": "",
+            "file": "anLang.json"
+        }
+    ]
+}
